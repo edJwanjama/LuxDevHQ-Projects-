@@ -1,4 +1,4 @@
-EXCEL ASSIGNMENT l OUTPUT: Cleanup, analysis,scenario modelling,interactive dashboard and summary
+EXCEL ASSIGNMENT l OUTPUT: Cleanup, analysis, scenario modelling, interactive dashboard and summary
 
 Summary of data issues found, cleaning rules, and assumptions in dataset:
 
