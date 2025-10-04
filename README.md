@@ -1,7 +1,6 @@
-EXCEL ASSIGNMENT l OUTPUT: Cleanup, analysis, scenario modelling, interactive dashboard and summary
+EXCEL ASSIGNMENT l OUTPUT: (Cleanup, analysis, scenario modelling, interactive dashboard and summary) https://docs.google.com/spreadsheets/d/1orxERNkyUuCPECWBq03imlPKHlzEMVH2/edit?usp=sharing&ouid=101413482149704630603&rtpof=true&sd=true
 
 Summary of data issues found, cleaning rules, and assumptions in dataset:
-
 Data Issues Found:
 Duplicate Rows: Some transactions were present more than once, with all columns identical.
 Data Type Mismatches: Dates and numeric columns were sometimes stored as text, causing errors in analysis.
